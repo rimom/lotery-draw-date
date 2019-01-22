@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpunit/phpunit": "^7.5"
+    },
+    
+    "autoload": {
+        "psr-4": { "lotery\\": "src/" }
+    }
+}
